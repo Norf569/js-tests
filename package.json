@@ -1,0 +1,13 @@
+{
+  "name": "js-tests",
+  "version": "1.0.0",
+  "description": "Simple JS code with passing and failing Jest tests",
+  "main": "src/math.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-junit": "^16.0.0"
+  }
+}
